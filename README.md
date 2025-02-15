@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AliNeamehh/AliNeamehh/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg" width="30%" height="20%">
+  <img src="https://github.com/AliNeamehh/AliNeamehh/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg" width="100%" height="auto">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ali</h1>
