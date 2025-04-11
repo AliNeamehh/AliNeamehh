@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alineamehh@gmail.com**
 
-- ⚡ Fun fact **I started with math and ended up loving coding!**
+- ⚡ I'm a developer that loves simplifying things. I love breaking down complex problems into simple, easy to understand solutions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
