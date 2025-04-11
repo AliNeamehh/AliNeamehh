@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/43f98c6bf8f3ddd19934cf2480deeaa0137aadb0b42ada4693ef4b77ac60f2ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584971435178303245315539572f67697068792e676966">
 
-- 🌱 I’m currently learning **Java, React.js and Node.js**
+- 🌱 I’m currently learning **.Net, React.js and Node.js**
 
 - 💬 Ask me about **Web Development, Data Structures & Algorithms, and API Design**
 
