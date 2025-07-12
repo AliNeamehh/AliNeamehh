@@ -7,13 +7,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/43f98c6bf8f3ddd19934cf2480deeaa0137aadb0b42ada4693ef4b77ac60f2ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584971435178303245315539572f67697068792e676966">
 
-- 🌱 I’m currently learning **.Net, React.js and Node.js**
+- 🔭 Currently working with **Java**, **Spring Boot**, **MongoDB**, **PostgreSQL**, and **JWT**
+- 🌱 Learning **Microservices**, **Docker**, and **Spring Security**
+- 💬 Ask me about **REST APIs**, **backend architecture**, and **clean code**
+- 📫 Reach me at **alineamehh@gmail.com**
+- ⚡ I enjoy solving real-world problems by simplifying complexity through clean backend logic
 
-- 💬 Ask me about **Web Development, Data Structures & Algorithms, and API Design**
-
-- 📫 How to reach me **alineamehh@gmail.com**
-
-- ⚡ I'm a developer that loves simplifying things. I love breaking down complex problems into simple, easy to understand solutions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
