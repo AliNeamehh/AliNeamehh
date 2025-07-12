@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Ali</h1>
-<h3 align="center">I started with a love for math and quickly discovered my passion for software development</h3>
+<h3 align="center"> A passionate Java Backend Developer focused on building scalable, secure, and maintainable backend systems using modern technologies.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/43f98c6bf8f3ddd19934cf2480deeaa0137aadb0b42ada4693ef4b77ac60f2ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584971435178303245315539572f67697068792e676966">
 
