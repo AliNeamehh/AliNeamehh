@@ -10,7 +10,7 @@
 🔧 **Primary Stack:** Java, Spring Boot, MongoDB, PostgreSQL, JWT  
 - 📦 **Currently Exploring:** Microservices, Docker, Spring Security  
 - 🧠 **Interests:** REST API design, backend infrastructure, and system design  
-- 📫 **Contact:** [alineamehh@gmail.com](mailto:alineamehh@gmail.com)  
+- 📫 **Contact:** [alineameh76@gmail.com](mailto:alineameh76@gmail.com)  
 - 📍 **Location:** Beirut, Lebanon  
 
 <h3 align="left">Connect with me:</h3>
