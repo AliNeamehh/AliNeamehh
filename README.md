@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/AliNeamehh/AliNeamehh/blob/main/Image%20Feb%205%2C%202026%2C%2009_56_29%20AM.png)" width="100%" height="auto" alt="Banner">
+  <img src="https://raw.githubusercontent.com/AliNeamehh/AliNeamehh/main/Image%20Feb%205%2C%202026%2C%2009_56_29%20AM.png" width="100%" alt="Banner" />
 </p>
-
 <h1 align="center">Hi, I'm Ali 👋</h1>
 
 <h3 align="center">
