@@ -4,8 +4,13 @@
 
 <h1 align="center">Hi, I'm Ali 👋</h1>
 
+<h3 align="center">
+  Backend Developer • SQL Expert • Java & Spring Boot
+</h3>
+
 <p align="center">
-  Java Backend Developer • Spring Boot • REST APIs • MongoDB & SQL
+<i>Do you prefer clean code that’s easy to read, easy to maintain, and built to scale?</i>
+
 </p>
 
 <p align="center">
