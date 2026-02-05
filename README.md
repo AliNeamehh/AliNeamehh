@@ -25,14 +25,14 @@
 <ul>
   <li>Backend developer focused on building scalable, secure, and maintainable APIs using Java and Spring Boot.</li>
   <li>Interested in clean architecture, performance, and system design.</li>
-  <li>Currently learning: Microservices, Docker, Spring Security.</li>
+  <li>Currently learning: Docker, System Design.</li>
 </ul>
 
 <h3>Core Stack</h3>
 
 <ul>
-  <li><b>Backend:</b> Java, Spring Boot, JWT</li>
-  <li><b>Databases:</b> MongoDB, SQL (Relational Databases)</li>
+  <li><b>Backend:</b> Java, Spring Boot /li>
+  <li><b>Databases:</b> SQL (Relational Databases)</li>
   <li><b>Location:</b> Beirut, Lebanon</li>
 </ul>
 
