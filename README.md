@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AliNeamehh/AliNeamehh/main/photo_2026-02-05_10-20-03.jpg" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/AliNeamehh/AliNeamehh/main/ali-neameh-profile-banner.png" width="100%" alt="Banner" />
 </p>
 <h1 align="center">Hi, I'm Ali 👋</h1>
 
