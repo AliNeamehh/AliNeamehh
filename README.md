@@ -47,6 +47,9 @@ Full-stack e-commerce application with a Spring Boot backend, Spring Security an
 ### [Spring Boot JPA Relationships](https://github.com/AliNeamehh/springboot-jpa-relations)
 Spring Boot project practicing JPA entity relationships across applicants, jobs, applications, and resumes using Spring Data JPA and H2.
 
+### [Travel Advisor](https://github.com/AliNeamehh/travel-advisor)
+React application for exploring restaurants, hotels, and attractions through an interactive map, with Google Maps integration, weather data, filtering, and a responsive interface.
+
 ## What I Care About
 
 - Clean and maintainable code
