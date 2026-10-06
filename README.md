@@ -1,78 +1,63 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AliNeamehh/AliNeamehh/main/ali-neameh-profile-banner.png" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/AliNeamehh/AliNeamehh/main/ali-neameh-profile-banner.png" width="100%" alt="Ali Neameh profile banner" />
 </p>
-<h1 align="center">Hi, I'm Ali 👋</h1>
 
-<h3 align="center">
-  Backend Developer • SQL Expert • Java & Spring Boot
-</h3>
+<h1 align="center">Ali Neameh</h1>
 
 <p align="center">
-<i>Do you prefer clean code that’s easy to read, easy to maintain, and built to scale?</i>
-
+  <b>Java Software Engineer</b><br/>
+  Java • Spring Boot • REST APIs • SQL • Spring Security • Docker
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ali-neameh/" target="_blank" rel="noreferrer">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ali-neameh/">LinkedIn</a>
   •
   <a href="mailto:alineameh76@gmail.com">Email</a>
 </p>
 
-<hr/>
+---
 
-<h3>About</h3>
+## About Me
 
-<ul>
-  <li>Backend developer focused on building scalable, secure, and maintainable APIs using Java and Spring Boot.</li>
-  <li>Interested in clean architecture, performance, and system design.</li>
-  <li>Currently learning: Docker, System Design.</li>
-</ul>
+I am a software engineer focused on backend and full-stack business applications using Java and Spring Boot.
 
-<h3>Core Stack</h3>
+My work and projects include REST API development, SQL and database work, authentication and authorization, frontend/backend integration, debugging, and maintainable business logic.
 
-<ul>
-  <li><b>Backend:</b> Java, Spring Boot /li>
-  <li><b>Databases:</b> SQL (Relational Databases)</li>
-  <li><b>Location:</b> Beirut, Lebanon</li>
-</ul>
+I am currently strengthening my knowledge of system design, software testing, and distributed systems.
 
-<h3>Languages and Tools</h3>
+## Core Stack
 
-<p align="left">
-  <!-- Frontend (optional) -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
+- **Backend:** Java, Spring Boot, Spring Security, REST APIs
+- **Databases:** SQL, MySQL, PostgreSQL, MongoDB
+- **Frontend:** React, AngularJS, JavaScript
+- **Tools:** Git, Docker, Postman, Maven
+- **Core concepts:** OOP, data structures and algorithms, design patterns, API design
 
-  <!-- Backend -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
+## Featured Projects
 
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
+### [Patient Management Microservices](https://github.com/AliNeamehh/patient-management)
+Learning-focused Spring Boot microservices system exploring JWT authentication, Kafka, gRPC, Docker, API Gateway, and cloud infrastructure concepts.
 
-  <!-- SQL replacement (using MySQL icon to represent SQL) -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  </a>
+### [Subscription Management Platform](https://github.com/AliNeamehh/subscription-app)
+SaaS subscription management project built with Java, Spring Boot, MongoDB, REST APIs, and a microservices-oriented design.
 
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+### [Mini E-commerce](https://github.com/AliNeamehh/mini-ecommerce)
+Full-stack e-commerce application with a Spring Boot backend, PostgreSQL persistence, authentication, and a modern web frontend.
+
+### [Spring Boot JPA Relationships](https://github.com/AliNeamehh/springboot-jpa-relations)
+Focused Java project demonstrating one-to-one, one-to-many, many-to-one, and many-to-many relationships using Spring Data JPA and Hibernate.
+
+## What I Care About
+
+- Clean and maintainable code
+- Reliable backend services
+- Clear API contracts
+- Correct business logic
+- Database performance and data integrity
+- Debugging problems from frontend to database
+
+---
+
+<p align="center">
+  Beirut, Lebanon
 </p>
