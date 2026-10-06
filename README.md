@@ -35,8 +35,8 @@ I am currently strengthening my knowledge of system design, software testing, an
 
 ## Selected Projects
 
-### [Patient Management](https://github.com/AliNeamehh/patient-management)
-Spring Boot learning project with patient CRUD, request validation, JPA persistence, PostgreSQL/H2, exception handling, and OpenAPI documentation. A separate billing service is also present as work in progress.
+### [Travel Advisor](https://github.com/AliNeamehh/travel-advisor)
+React application for exploring restaurants, hotels, and attractions through an interactive map, with Google Maps integration, weather data, filtering, and a responsive interface.
 
 ### [Subscription Management Platform](https://github.com/AliNeamehh/subscription-app)
 Java 21 Maven multi-module backend containing separate Spring Boot subscription and invoice services, using MongoDB, validation, REST APIs, and MapStruct.
@@ -44,11 +44,11 @@ Java 21 Maven multi-module backend containing separate Spring Boot subscription 
 ### [Mini E-commerce](https://github.com/AliNeamehh/mini-ecommerce)
 Full-stack e-commerce application with a Spring Boot backend, Spring Security and JWT authentication, PostgreSQL persistence, and a Next.js/React frontend.
 
+### [Patient Management](https://github.com/AliNeamehh/patient-management)
+Spring Boot learning project with patient CRUD, request validation, JPA persistence, PostgreSQL/H2, exception handling, and OpenAPI documentation. A separate billing service is also present as work in progress.
+
 ### [Spring Boot JPA Relationships](https://github.com/AliNeamehh/springboot-jpa-relations)
 Spring Boot project practicing JPA entity relationships across applicants, jobs, applications, and resumes using Spring Data JPA and H2.
-
-### [Travel Advisor](https://github.com/AliNeamehh/travel-advisor)
-React application for exploring restaurants, hotels, and attractions through an interactive map, with Google Maps integration, weather data, filtering, and a responsive interface.
 
 ## What I Care About
 
