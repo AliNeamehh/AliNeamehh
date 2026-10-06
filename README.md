@@ -21,16 +21,16 @@
 
 I am a software engineer focused on backend and full-stack business applications using Java and Spring Boot.
 
-My work and projects include REST API development, SQL and database work, authentication and authorization, frontend/backend integration, debugging, and maintainable business logic.
+My work and projects include REST API development, SQL and database work, authentication and authorization, frontend/backend integration, debugging, and maintainable business logic. I also use Supabase for reporting work, including SQL queries and database functions that support operational reports.
 
 I am currently strengthening my knowledge of system design, software testing, and distributed systems.
 
 ## Core Stack
 
 - **Backend:** Java, Spring Boot, Spring Security, REST APIs
-- **Databases:** SQL, MySQL, PostgreSQL, MongoDB
+- **Databases & Data:** SQL, MySQL, Supabase
 - **Frontend:** React, AngularJS, JavaScript
-- **Tools:** Git, Docker, Postman, Maven
+- **Tools:** Git, Docker, Postman, Maven, Supabase
 - **Core concepts:** OOP, data structures and algorithms, design patterns, API design
 
 ## Selected Projects
