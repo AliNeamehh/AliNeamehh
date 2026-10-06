@@ -33,19 +33,19 @@ I am currently strengthening my knowledge of system design, software testing, an
 - **Tools:** Git, Docker, Postman, Maven
 - **Core concepts:** OOP, data structures and algorithms, design patterns, API design
 
-## Featured Projects
+## Selected Projects
 
-### [Patient Management Microservices](https://github.com/AliNeamehh/patient-management)
-Learning-focused Spring Boot microservices system exploring JWT authentication, Kafka, gRPC, Docker, API Gateway, and cloud infrastructure concepts.
+### [Patient Management](https://github.com/AliNeamehh/patient-management)
+Spring Boot learning project with patient CRUD, request validation, JPA persistence, PostgreSQL/H2, exception handling, and OpenAPI documentation. A separate billing service is also present as work in progress.
 
 ### [Subscription Management Platform](https://github.com/AliNeamehh/subscription-app)
-SaaS subscription management project built with Java, Spring Boot, MongoDB, REST APIs, and a microservices-oriented design.
+Java 21 Maven multi-module backend containing separate Spring Boot subscription and invoice services, using MongoDB, validation, REST APIs, and MapStruct.
 
 ### [Mini E-commerce](https://github.com/AliNeamehh/mini-ecommerce)
-Full-stack e-commerce application with a Spring Boot backend, PostgreSQL persistence, authentication, and a modern web frontend.
+Full-stack e-commerce application with a Spring Boot backend, Spring Security and JWT authentication, PostgreSQL persistence, and a Next.js/React frontend.
 
 ### [Spring Boot JPA Relationships](https://github.com/AliNeamehh/springboot-jpa-relations)
-Focused Java project demonstrating one-to-one, one-to-many, many-to-one, and many-to-many relationships using Spring Data JPA and Hibernate.
+Spring Boot project practicing JPA entity relationships across applicants, jobs, applications, and resumes using Spring Data JPA and H2.
 
 ## What I Care About
 
